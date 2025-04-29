@@ -1,3 +1,4 @@
+
 # Linux-Process-API-fork-wait-exec-
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
@@ -23,9 +24,9 @@ Test the C Program for the desired output.
 
 # PROGRAM:
 
-Developed by : GAUTHAM KRISHNA
+Developed by : vijay k
 
-Register Number : 212223240036
+Register Number : 24901153 
 
 ## C Program to print process ID and parent Process ID using Linux API system calls
 ~~~
